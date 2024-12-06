@@ -1,0 +1,4 @@
+gymnasium
+browsergym
+weblinx_browsergym
+pytest
