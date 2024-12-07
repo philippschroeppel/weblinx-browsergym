@@ -3,7 +3,7 @@
 This library is designed to be a `browsergym` extension that allows using Weblinx inside an environment, with the same input you would expect from a browsergym environment, but with an action space specific to weblinx.
 
 > [!NOTE]
-> This dataset is currently on the version 1.1 of weblinx. In WebLINX 1.1, there was no new demonstrations added, with a small numbers removed after processing. There are substantial changes to the steps being evaluated, with the inclusion of tab actions. Please report your results as "WebLINX-1.1", "WebLINX-BrowserGym" or "WebLINX-BG" in your work, to differentiate from the [initial release of weblinx (1.0)](https://huggingface.co/datasets/McGill-NLP/WebLINX/tree/v1.0).
+> This dataset is currently on the version 1.1 of weblinx. In WebLINX 1.1, a small number of demonstrations were removed after processing, but no demo was added. There are substantial changes to the steps being evaluated, with the inclusion of tab actions. Please report your results as "WebLINX-1.1", "WebLINX-BrowserGym" or "WebLINX-BG" in your work, to differentiate from the [initial release of weblinx (1.0)](https://huggingface.co/datasets/McGill-NLP/WebLINX/tree/v1.0).
 
 
 ## Quickstart
